@@ -10,4 +10,7 @@ Interview Questions:
 https://www.edureka.co/blog/interview-questions/top-50-hadoop-interview-questions-2016/
 
 Nice Blogs:
-http://vision.cloudera.com/top-5-tips-transforming-marketing-data-into-customer-insights/
+* http://vision.cloudera.com/top-5-tips-transforming-marketing-data-into-customer-insights/
+* https://www.slideshare.net/cloudera/5-apache-spark-tips-in-5-minutes
+
+
