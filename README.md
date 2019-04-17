@@ -6,5 +6,8 @@ There is no internet at my
 native place so doing a dummy 
 Check in
 
-
+Interview Questions:
 https://www.edureka.co/blog/interview-questions/top-50-hadoop-interview-questions-2016/
+
+Nice Blogs:
+http://vision.cloudera.com/top-5-tips-transforming-marketing-data-into-customer-insights/
