@@ -16,3 +16,4 @@ Nice Blogs:cloudera
 
 Nice Blogs:mongodb
 * https://www.mongodb.com/blog/post/12-tips-going-production-mongodb
+* http://blog.minimum.se/2017/01/22/mongo-db-tips-and-tricks.html
