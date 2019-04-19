@@ -21,3 +21,4 @@ Nice Blogs:mongodb
 
 Nice Blog: Python
 https://www.tutorialspoint.com/python/python_online_quiz.htm
+https://www.techbeamers.com/python-data-analysis-quiz-beginners/
