@@ -18,3 +18,6 @@ Nice Blogs:mongodb
 * https://www.mongodb.com/blog/post/12-tips-going-production-mongodb
 * http://blog.minimum.se/2017/01/22/mongo-db-tips-and-tricks.html
 * https://realpython.com/introduction-to-mongodb-and-python/
+
+Nice Blog: Python
+https://www.tutorialspoint.com/python/python_online_quiz.htm
