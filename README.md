@@ -25,3 +25,4 @@ Nice Blog: Python
 https://www.tutorialspoint.com/python/python_online_quiz.htm
 https://www.techbeamers.com/python-data-analysis-quiz-beginners/
 https://medium.com/the-renaissance-developer/learning-python-from-zero-to-hero-8ceed48486d5
+https://medium.com/dunder-data/how-to-learn-pandas-108905ab4955
