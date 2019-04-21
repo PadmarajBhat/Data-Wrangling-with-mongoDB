@@ -18,7 +18,8 @@ Nice Blogs:cloudera
 * https://aws.amazon.com/big-data/what-is-spark/
 * https://aws.amazon.com/
 * https://www.cloudera.com/products/open-source/apache-hadoop/apache-solr.html
-* https://m.youtube.com/watch?v=CPITwmi6GWg
+* https://m.youtube.com/watch?v=
+* https://dzone.com/articles/analytics-with-apache-spark-tutorial-part-2-spark
 
 Nice Blogs:mongodb
 * https://www.mongodb.com/blog/post/12-tips-going-production-mongodb
