@@ -16,6 +16,7 @@ Nice Blogs:cloudera
 * https://www.cloudera.com/documentation/enterprise/5-6-x/topics/spark_first.html
 * https://www.sanfoundry.com/cloudera-questions-answers/
 * https://aws.amazon.com/big-data/what-is-spark/
+* https://aws.amazon.com/emr/
 
 Nice Blogs:mongodb
 * https://www.mongodb.com/blog/post/12-tips-going-production-mongodb
