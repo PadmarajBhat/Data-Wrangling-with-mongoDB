@@ -32,6 +32,7 @@ https://www.techbeamers.com/python-data-analysis-quiz-beginners/
 https://medium.com/the-renaissance-developer/learning-python-from-zero-to-hero-8ceed48486d5
 https://medium.com/dunder-data/how-to-learn-pandas-108905ab4955
 https://www.google.co.in/amp/s/iqbalnaved.wordpress.com/2013/08/26/python-pandas-hacks/amp/
+https://www.interviewqs.com/ddi_code_snippets/import_data_from_mongodb_to_pandas
 
 Nice Read: GAN
 * https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0
