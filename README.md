@@ -21,6 +21,9 @@ Nice Blogs:cloudera
 * https://m.youtube.com/watch?v=
 * https://dzone.com/articles/analytics-with-apache-spark-tutorial-part-2-spark
 * https://techvidvan.com/tutorials/apache-storm-vs-spark-streaming/
+* https://docs.aws.amazon.com/emr/latest/ReleaseGuide/UseCase_Streaming.html
+
+
 Nice Blogs:mongodb
 * https://www.mongodb.com/blog/post/12-tips-going-production-mongodb
 * http://blog.minimum.se/2017/01/22/mongo-db-tips-and-tricks.html
