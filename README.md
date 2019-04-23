@@ -22,7 +22,7 @@ Nice Blogs:cloudera
 * https://dzone.com/articles/analytics-with-apache-spark-tutorial-part-2-spark
 * https://techvidvan.com/tutorials/apache-storm-vs-spark-streaming/
 * https://docs.aws.amazon.com/emr/latest/ReleaseGuide/UseCase_Streaming.html
-
+* https://www.softwareadvice.com/resources/essential-emr-features/
 
 Nice Blogs:mongodb
 * https://www.mongodb.com/blog/post/12-tips-going-production-mongodb
