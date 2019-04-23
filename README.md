@@ -24,6 +24,8 @@ Nice Blogs:cloudera
 * https://docs.aws.amazon.com/emr/latest/ReleaseGuide/UseCase_Streaming.html
 * https://www.softwareadvice.com/resources/essential-emr-features/
 * https://hortonworks.com/blog/apache-hadoop-infrastructure-considerations-and-best-practices/
+* https://aws.amazon.com/getting-started/projects/analyze-big-data/
+
 
 Nice Blogs:mongodb
 * https://www.mongodb.com/blog/post/12-tips-going-production-mongodb
