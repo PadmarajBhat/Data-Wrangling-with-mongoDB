@@ -21,6 +21,7 @@ Nice Blogs:cloudera
 * https://www.youtube.com/watch?v=jylp2atrZjc
   * EMR: Elastic Map Reduce - managed cluster platform which simplifies running big data framework
   * Elastic ==> Amazon EC2 ==> Amazon Elastic Compute Cloud ==> Web based service to run an application in AWS (on demand/ reserved / spot)
+  * Storage system can have HDFS, EMRFS (EMR File System - either HDFS or Amazon s3)  or local connected disk
 * https://dzone.com/articles/analytics-with-apache-spark-tutorial-part-2-spark
 * https://techvidvan.com/tutorials/apache-storm-vs-spark-streaming/
 * https://docs.aws.amazon.com/emr/latest/ReleaseGuide/UseCase_Streaming.html
