@@ -19,6 +19,8 @@ Nice Blogs:cloudera
 * https://aws.amazon.com/
 * https://www.cloudera.com/products/open-source/apache-hadoop/apache-solr.html
 * https://www.youtube.com/watch?v=jylp2atrZjc
+  * EMR: Elastic Map Reduce - managed cluster platform which simplifies running big data framework
+  * Elastic ==> Amazon EC2 ==> Amazon Elastic Compute Cloud ==> Web based service to run an application in AWS (on demand/ reserved / spot)
 * https://dzone.com/articles/analytics-with-apache-spark-tutorial-part-2-spark
 * https://techvidvan.com/tutorials/apache-storm-vs-spark-streaming/
 * https://docs.aws.amazon.com/emr/latest/ReleaseGuide/UseCase_Streaming.html
