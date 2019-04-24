@@ -22,7 +22,6 @@ Nice Blogs:cloudera
 * https://dzone.com/articles/analytics-with-apache-spark-tutorial-part-2-spark
 * https://techvidvan.com/tutorials/apache-storm-vs-spark-streaming/
 * https://docs.aws.amazon.com/emr/latest/ReleaseGuide/UseCase_Streaming.html
-* https://www.softwareadvice.com/resources/essential-emr-features/
 * https://hortonworks.com/blog/apache-hadoop-infrastructure-considerations-and-best-practices/
 * https://aws.amazon.com/getting-started/projects/analyze-big-data/
 * https://aws.amazon.com/blogs/big-data/spark-enhancements-for-elasticity-and-resiliency-on-amazon-emr/
