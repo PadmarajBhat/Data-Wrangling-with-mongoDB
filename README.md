@@ -25,6 +25,7 @@ Nice Blogs:cloudera
   * Resource Management is by default YARN
   * Data Processing framework - Spark, tez, mapreduce
   * application programs like pig, spark and hive
+  * Ganglia is a scalable distributed monitoring system for high-performance computing systems such as clusters and Grids.
   
 * https://dzone.com/articles/analytics-with-apache-spark-tutorial-part-2-spark
 * https://techvidvan.com/tutorials/apache-storm-vs-spark-streaming/
