@@ -26,6 +26,9 @@ Nice Blogs:cloudera
   * Data Processing framework - Spark, tez, mapreduce
   * application programs like pig, spark and hive
   * Ganglia is a scalable distributed monitoring system for high-performance computing systems such as clusters and Grids.
+  * Spark Application example:
+       * https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-spark-application.html
+       * https://spark.apache.org/examples.html
   
 * https://dzone.com/articles/analytics-with-apache-spark-tutorial-part-2-spark
 * https://techvidvan.com/tutorials/apache-storm-vs-spark-streaming/
