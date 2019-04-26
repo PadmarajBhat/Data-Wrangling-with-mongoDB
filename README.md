@@ -41,6 +41,9 @@ Nice Blogs:cloudera
      
   * Jupyter labs gives you easy access to data underlying the spark, i could run the sample program to calculate the pi value but could not add a step in aws
      
+  * step add is failing:
+     * first it was failing due to invalid argument "--master yarn-client" : it used to fail in 4 seconds
+     * now it fails due to exit status 1 which indicates that there must be coding error , AWS is taking longer time to update log so committing for today the lesson learnt from 16 jobs. It was informative experiments.
   
   * All examples on AWS indicates usage of S3 buckets in "step" execution. This is because of 
   
