@@ -32,6 +32,15 @@ Nice Blogs:cloudera
        * https://spark.apache.org/examples.html
        
   * Pyspark application on AWS EMR: https://medium.com/@kulasangar91/creating-a-spark-job-using-pyspark-and-executing-it-in-aws-emr-70dba5e98a75
+     * The file is first added to the S3 bucket. This can be a big data file. Are there API to put files in s3? is it fast?
+     * put a layer of hadoop on the top of it to perform analytics on that file.
+       * create emr cluster and in pyspark program access it and do manupulation or analytics.
+       * save the output back s3
+     * now that required analytics are done, you may take out(terminate) the cluster (there by saving the cluster cost)
+     *  can we configure streaming so that spark can take input and save it in s3 as is or analytical output over the steamed data ?
+     
+  
+  * All examples on AWS indicates usage of S3 buckets in "step" execution. This is because of 
   
 * https://dzone.com/articles/analytics-with-apache-spark-tutorial-part-2-spark
 * https://techvidvan.com/tutorials/apache-storm-vs-spark-streaming/
