@@ -30,6 +30,8 @@ Nice Blogs:cloudera
   * Spark Application example:
        * https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-spark-application.html
        * https://spark.apache.org/examples.html
+       
+  * Pyspark application on AWS EMR: https://medium.com/@kulasangar91/creating-a-spark-job-using-pyspark-and-executing-it-in-aws-emr-70dba5e98a75
   
 * https://dzone.com/articles/analytics-with-apache-spark-tutorial-part-2-spark
 * https://techvidvan.com/tutorials/apache-storm-vs-spark-streaming/
