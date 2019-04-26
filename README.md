@@ -39,6 +39,8 @@ Nice Blogs:cloudera
      * now that required analytics are done, you may take out(terminate) the cluster (there by saving the cluster cost)
      *  can we configure streaming so that spark can take input and save it in s3 as is or analytical output over the steamed data ?
      
+  * Jupyter labs gives you easy access to data underlying the spark, i could run the sample program to calculate the pi value but could not add a step in aws
+     
   
   * All examples on AWS indicates usage of S3 buckets in "step" execution. This is because of 
   
